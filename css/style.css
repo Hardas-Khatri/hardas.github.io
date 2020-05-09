@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900');
+body{
+    padding: 0%;
+    margin: 0%;
+}
+img, iframe, embed{
+    max-width: 100%;
+}
+.text_primary{
+    color: #2A2A72;
+}
+
+.text_secondary{
+    color: #FFAA02;
+}
+.top_header{
+    background-color: rgb(84, 112, 190);
+    padding-top: 0px;
+    margin-bottom: -18px;
+    text-align: center;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.2px;
+}
+.top_text{
+    margin-top: 14px;
+}
+.btnRight{
+ text-align: center;
+ display: inline;
+ font-size: 11px;
+ padding: 0px 6px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    margin-bottom: 16px;
+}
+.btnRight:hover{
+    background-color:rgb(88, 88, 221);
+    color: white;
+}
+.list .items{
+    list-style-type: none;
+    display: inline;
+    padding: 10px 10px;
+    color: white;
+    border-radius: none;
+    background-color: none;
+}
+.list .items:hover{
+    border-radius: 8px;
+    background-color: cornflowerblue;
+}
+.items a{
+    color: white;
+}
+.list{
+    margin: 15px 15px;
+    color: white;
+}
+.list .items i{
+    color: white;
+}
+.logo{
+    width:250px;
+    height: 60px;
+    margin-right: 80px;
+    margin-left:  80px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: -10px;
+}
+.navMargin{
+    height: 75px;
+}
+#navbarNavDropdown{
+    padding-right: 50px;
+    margin-left: -10px;
+}
+.mar{
+    background: rgb(50, 92, 170);
+    width: 86%;
+    height: 28px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.bg-light{
+margin-top: -6px;
+margin-bottom: -6px;
+}
+p .green{
+    color:rgb(105, 212, 105);
+}
+p .white{
+    color: white;
+}
+p .blue{
+    color:blue;
+}
+p .blue:hover{
+    text-decoration: none;
+}
+.cardh{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imgicon{
+width:40px;
+height: 40px;
+}
+.imgicon2{
+    margin-top: -20px;
+    color: green;
+    text-shadow: greenyellow;
+}
+.texmar{
+    line-height: 40px;
+}
+.image{
+    width:250px;
+    height:50px;
+    padding-left: 40px;
+    margin-left: 110px;
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+.grids4{
+    text-align: center;
+    background-color: rgb(43, 43, 221);
+    margin: 0px 0px;
+
+}
+.resizecard{
+    bottom: 35px;
+    top: 35px;
+    height: 300px;
+    margin: 0px;
+}
+.shadow-lg{
+    padding: 50px;
+}
+.col-lg-4{
+    margin-top: 15px;
+}
+.resizecard h6{
+    color:white;
+    font-size: 18px;
+    padding-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.resizecard h2{
+    color:white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top:  10px;
+}
+.resizecard .sname{
+    color:rgb(83, 250, 83);
+    font-style: bold;
+}
+.fbox{
+    border: 1px solid;
+    border-color: rgb(223, 220, 220);
+    margin: 20px;
+    background: rgb(241, 241, 241);
+}
+.fbox h3{
+    font-size: 15px;
+    margin-right: 20px;
+}
+.fimg{
+    margin: 25px 10px;
+}
+.ftext{
+    margin-left: 65px;
+    margin-top: -48px;
+}
+.leftrow{
+    height: 130px;
+    margin-top: 20px;
+}
+.leftrow2{
+    height: 130px;
+    margin-top: -15px;
+}
+.events{
+    height: 250px;
+    margin-top: 45px;
+}
+.galleryresize{
+    width:222px;
+    margin-right: 3px;
+}
+.leftdiv{
+    margin-top: 60px;
+}
+.leftdiv h1{
+    color:white;
+    line-height: 28px;
+    font-size: 14px;
+}
+.leftdiv h1 i{
+    color:rgb(92, 190, 92);
+}
+.centerdiv{
+  margin-top: 55px;
+  color:white;
+}
+.centerdiv hr{
+    background-color: rgb(92, 190, 92);
+    height: 1px;
+    max-width: 40px;
+    margin-left:0px;
+}
+
+.leftdiv h1 i{
+    color:rgb(92, 190, 92);
+}
+.centerdiv .footer_icons{
+    margin-top:-22px;
+}
+.centerdiv .footer_icons .socials{
+    color:white;
+    padding: 5px;
+    float: left;
+}
+footer{
+    background-color: rgb(53, 53, 226);
+    text-align: center;
+    color:white;
+    padding:10px;
+}
+
+
+
